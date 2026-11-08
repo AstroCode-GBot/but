@@ -1,20 +1,17 @@
 {
-  "name": "blackbirdrat",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "engines": {
-    "node": "16.13.2"
-  },
-  "scripts": {
-    "start": "node index.js"
-  },
-  "author": "@QUANTUM_NULL",
-  "license": "ISC"
-}
-"dependencies": {
-  "express": "^4.21.2"
-},
+"name": "blackbirdrat",
+"version": "1.0.0",
+"description": "",
+"main": "index.js",
 "engines": {
-  "node": ">=20"
+"node": "22.x"
+},
+"scripts": {
+"start": "node index.js"
+},
+"author": "@QUANTUM_NULL",
+"license": "ISC",
+"dependencies": {
+"express": "^4.21.2"
+}
 }
