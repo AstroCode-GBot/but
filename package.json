@@ -13,6 +13,7 @@
 "license": "ISC",
 "dependencies": {
   "express": "^4.21.2",
-  "ws": "^8.18.3"
+  "ws": "^8.18.3",
+  "node-telegram-bot-api": "^0.66.0"
 }
 }
