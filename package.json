@@ -12,3 +12,9 @@
   "author": "@QUANTUM_NULL",
   "license": "ISC"
 }
+"dependencies": {
+  "express": "^4.21.2"
+},
+"engines": {
+  "node": ">=20"
+}
